@@ -1,5 +1,4 @@
 # pic-project
-# Project  Reflection Template
 ## The project is about referring a marketing company based in Brazil named 'Magist' to a company 'Eniac', based in Spain, Which is a marketing company for high Apple products.
    For the sales of their products there and testing the south america nation tech-products market.
 ## Using the DataBase from magist, an analysis was done to view if the recommendatiom for partnership will be profitable for the next three years as a test. using SQL and Tableau and Google search Engine
